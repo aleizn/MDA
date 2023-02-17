@@ -11,6 +11,7 @@ let teks = `MULTISERVICIOS DEL AGUILA
 • Grupo de Chat de Ventas en WhatsApp https://chat.whatsapp.com/BEbIis63ocGHrd5hGfBGVx
 • Ventas por Mayor y Menor de Netflix: https://chat.whatsapp.com/I0Zn15B66hFBAQM6vcHOmM
 • Página de Facebook https://web.facebook.com/people/MultiStreamingPer%25C3%25BA/100089617760470/
+• Venta de seguidores,Comentarios,Vistas de todas las plataformas ( INSTAGRAM,YOUTUBE,FACEBOOK,TIKTOK..Y mas)
 
 PLATAFORMAS STREAMING LO MEJOR DEL ETRETENIMIENTO AQUÍ
 Cuentas y perfiles x mayor y menor

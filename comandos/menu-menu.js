@@ -232,9 +232,8 @@ let menuB = `
 ├➢${usedPrefix}setname <texto
 ├➢${usedPrefix}setdesc <texto
 ├➢${usedPrefix}invocar <texto
-├➢${usedPrefix}jenn <texto
-├➢${usedPrefix}tati <texto
-├➢${usedPrefix}jenta <texto
+├➢${usedPrefix}info <texto
+├➢${usedPrefix}promos <texto
 ├➢${usedPrefix}setwelcome <texto
 ├➢${usedPrefix}setbye <texto
 ├➢${usedPrefix}hidetag <texto
